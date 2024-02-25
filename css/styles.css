@@ -516,7 +516,7 @@ footer{
 
 #contact > h2{
     margin:0 0 15px 0;
-    color:#fff;
+    color: #fff !important;
     font-weight:500
 }
 #contact-form{
