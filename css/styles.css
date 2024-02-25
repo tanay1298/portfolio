@@ -513,7 +513,7 @@ footer{
     color:#fff;
 }
 
-#contact h2{
+#contact > h2{
     margin:0 0 15px 0;
     color:#fff;
     font-weight:500
