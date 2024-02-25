@@ -508,6 +508,11 @@ footer{
     background:#3498db;
     text-align:center
 }
+
+#contact h1{
+    color:#fff;
+}
+
 #contact h2{
     margin:0 0 15px 0;
     color:#fff;
